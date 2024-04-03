@@ -2,9 +2,9 @@
 	"email": "",
 	"password": "",
 	"adminOnly": false,
-	"adminBot": [],
-	"nickNameBot": "",
-	"prefix": "#",
+	"adminBot": [61553425987326],
+	"nickNameBot": "Einstein bot",
+	"prefix": "•",
 	"database": {
 		"type": "local",
 		"uriMongodb": "",
